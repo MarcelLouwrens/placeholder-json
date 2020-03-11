@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "status": "online"
+    },
+    {
+      "id": 2,
+      "status": "online"
+    },
+    {
+      "id": 3,
+      "status": "online"
+    }
+  ]
+}
